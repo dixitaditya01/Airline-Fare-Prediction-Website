@@ -26,6 +26,3 @@ For more info on the libraries, please refer the requirement.txt file.
 
 I have used the dataset from kaggle - https://www.kaggle.com/datasets/absin7/airlines-fare-prediction
 
-## Screenshots
-
-![D90AB114-504E-4CAA-AC49-2EC69F32F1CC_1_201_a](https://user-images.githubusercontent.com/77913961/183284215-71bfe39a-ad2e-4d48-b350-992efefc4e59.jpeg)

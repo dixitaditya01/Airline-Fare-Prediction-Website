@@ -2,7 +2,7 @@
 # Airline Fare Prediction System
 
 I have created this project where we predict the airline fare for a particular date of travel.
-Basically the user has to input all the details of travel like date, month, airline company, Departure,Arrival, and number of stops.
+Basically the user has to input all the details of travel like date, month, airline company, Departure, Arrival, and number of stops.
 
 Many people, travel through Airline first time or rarely and end up paying a lot more than the actual price.
 Using this I plan to give the user a predicted price of the airline fare, so that they can plan much in advance and end up paying less money.
